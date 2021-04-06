@@ -12,10 +12,6 @@ set t_Co=256
 set number
 set cursorline
 
-set mouse=a
-set selection=exclusive
-set selectmode=mouse,key
-
 set tabstop=4
 set shiftwidth=4
 set autoindent
