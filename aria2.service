@@ -1,0 +1,9 @@
+[Unit]
+Description=aria2c daemon
+
+[Service]
+Type=forking
+ExecStart=aria2c -D --conf-path=/home/ricky/.aria2/aria2.conf
+
+[Install]
+WantedBy=default.target
