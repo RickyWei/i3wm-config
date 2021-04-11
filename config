@@ -201,3 +201,4 @@ bindsym $mod+F2 exec --no-startup-id google-chrome
 
 # lock
 bindsym $mod+CTRL+l exec --no-startup-id sh ~/.config/i3/i3lock-blur.sh
+
