@@ -6,17 +6,18 @@ This config is based on ubuntu20.04.
 
 ## config files
 
-| file             | pwd                               |
-| :--------------- | :-------------------------------- |
-| config           | ~/.config/i3/config               |
-| wallpaper.jpg    | ~/.config/i3/wallpaper.jpg        |
-| monitor.sh       | ~/.config/i3/monitor.sh           |
-| i3lock-blur.sh   | ~/.config/i3/i3lock-blur.sh       |
-| lock.png         | ~/.config/i3/lock.png             |
-| .i3status.config | ~/.i3status.config                |
-| .vimrc           | ~/.vimrc                          |
-| aria2.conf       | ~/.aria2/aria2.conf               |
-| aria2.service    | /lib/systemd/system/aria2.service |
+| file                | pwd                               |
+| :------------------ | :-------------------------------- |
+| .vimrc              | ~/.vimrc                          |
+| .i3status.config    | ~/.i3status.config                |
+| i3/config           | ~/.config/i3/config               |
+| i3/wallpaper.jpg    | ~/.config/i3/wallpaper.jpg        |
+| i3/monitor.sh       | ~/.config/i3/monitor.sh           |
+| i3/i3lock-blur.sh   | ~/.config/i3/i3lock-blur.sh       |
+| i3/lock.png         | ~/.config/i3/lock.png             |
+| aria2/aria2.conf    | ~/.aria2/aria2.conf               |
+| aria2/aria2.service | /lib/systemd/system/aria2.service |
+| youtub-dl/config    | ~/.config/youtube-dl/config       |
 
 ## prolem solved
 

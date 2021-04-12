@@ -1,0 +1,5 @@
+--external-downloader-args '-c -j 5 -x 10 -k 10M'
+
+-f 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best'
+
+-o '~/Videos/%(title)s.%(ext)s' --restrict-filenames 
